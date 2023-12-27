@@ -1,7 +1,7 @@
 available: false
 callbacks: ''
 cargoAcceptance:
-- NEWC
+- GLUC
 cargoProduction:
 - ATP1
 colour: 1
